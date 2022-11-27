@@ -1,0 +1,13 @@
+D:\Users\Ádám\Desktop\C#\oszthatósag\oszthatósag\bin\Debug\oszthatósag.exe.config
+D:\Users\Ádám\Desktop\C#\oszthatósag\oszthatósag\bin\Debug\oszthatósag.exe
+D:\Users\Ádám\Desktop\C#\oszthatósag\oszthatósag\bin\Debug\oszthatósag.pdb
+D:\Users\Ádám\Desktop\C#\oszthatósag\oszthatósag\obj\Debug\oszthatósag.exe
+D:\Users\Ádám\Desktop\C#\oszthatósag\oszthatósag\obj\Debug\oszthatósag.pdb
+D:\Távoktatás\C#\előző\oszthatósag\oszthatósag\bin\Debug\oszthatósag.exe.config
+D:\Távoktatás\C#\előző\oszthatósag\oszthatósag\bin\Debug\oszthatósag.exe
+D:\Távoktatás\C#\előző\oszthatósag\oszthatósag\bin\Debug\oszthatósag.pdb
+D:\Távoktatás\C#\előző\oszthatósag\oszthatósag\obj\Debug\oszthatósag.csproj.AssemblyReference.cache
+D:\Távoktatás\C#\előző\oszthatósag\oszthatósag\obj\Debug\oszthatósag.csproj.SuggestedBindingRedirects.cache
+D:\Távoktatás\C#\előző\oszthatósag\oszthatósag\obj\Debug\oszthatósag.csproj.CoreCompileInputs.cache
+D:\Távoktatás\C#\előző\oszthatósag\oszthatósag\obj\Debug\oszthatósag.exe
+D:\Távoktatás\C#\előző\oszthatósag\oszthatósag\obj\Debug\oszthatósag.pdb
